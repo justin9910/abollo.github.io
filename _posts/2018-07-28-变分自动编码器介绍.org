@@ -2,7 +2,9 @@
 
 **  变分自动编码器介绍
 
+
 https://towardsdatascience.com/intuitively-understanding-variational-autoencoders-1bfe67eb5daf
+
 
 按照这个帖子介绍VAEs的概念，基本结构、重构损失函数（reconstruction
 loss）等等。
