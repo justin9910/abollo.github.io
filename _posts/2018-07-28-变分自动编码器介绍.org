@@ -1,6 +1,6 @@
-* VAEs的介绍
+# VAEs的介绍
 
-**  变分自动编码器介绍
+##  变分自动编码器介绍
 
 
 https://towardsdatascience.com/intuitively-understanding-variational-autoencoders-1bfe67eb5daf
@@ -34,7 +34,7 @@ VAEs的基础是自动编码器，自动编码器由于通过编码将信息进�
 
 
 
-** Variational Inference A review for Statisticians
+## Variational Inference A review for Statisticians
 
 Variational Inference A Review for Statisticians 1601.00670
 
