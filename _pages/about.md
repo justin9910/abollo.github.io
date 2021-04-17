@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "暨南大学信息科学技术学院深度学习实验室 booq LAB"
+title: "booq LAB 以微见道"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,5 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-暨南大学信息科学技术学院深度学习实验室booq LAB
+# 以微见道
+
+本实验室主要开展光学逆问题的研究，利用深度学习方法求解复杂的非线性光学逆问题，这些问题包括图像增强、图像的域间转换、光学器件反设计等等
+
+# 研究成果
+
+## 汉字手写字体的自动生成
+## 傅里叶层析图像增强 Fourier ptychographic imaging
+## 多层纳米光学薄膜反设计
 
