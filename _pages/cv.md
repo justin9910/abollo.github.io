@@ -17,6 +17,7 @@ Education
 Work experience
 ======
 * 1998-2002，中国电器科学研究院
+
 Skills
 ======
 * 深度学习
