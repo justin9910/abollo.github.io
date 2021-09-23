@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "Guangdong China"
-title                    : "booq LAB 以微见道, Jinan University"
+title                    : "知微见道, booq Lab，Jinan University"
 title_separator          : "-"
 name                     : &name "Bo Huang"
 description              : &description "personal description"
