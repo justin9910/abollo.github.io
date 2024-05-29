@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "知微见道， booq Lab"
+title: "知微见道booq Lab"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
