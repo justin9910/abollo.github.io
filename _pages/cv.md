@@ -13,10 +13,11 @@ Education
 ======
 * 本科，厦门大学，1994-1998
 * 博士，厦门大学，2002-2008
+* 访问学者，University of California, Santa Cruz，2019-2020
 
 Work experience
 ======
-* 1998-2002，中国电器科学研究院
+* 技术部长，中国电器科学研究院，1998-2002
 
 Skills
 ======
