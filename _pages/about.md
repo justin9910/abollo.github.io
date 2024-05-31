@@ -15,7 +15,8 @@ redirect_from:
 
 ## 智能计算成像
 
-## 傅里叶层析图像增强 Fourier ptychographic imaging
+## 傅里叶叠层计算成像 Fourier ptychographic imaging
+
 
 ## 多层纳米光学薄膜反设计
 
