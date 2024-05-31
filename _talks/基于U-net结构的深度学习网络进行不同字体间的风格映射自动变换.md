@@ -4,7 +4,7 @@ collection: talks
 type: "Tutorial"
 permalink: /talks/基于U-net结构的深度学习网络进行不同字体间的风格映射自动变换
 
-date: 2018-07-28--
+date: 2017-07-28
 
 ---
 
