@@ -13,8 +13,7 @@ date: 2017-07-28
 * “https://arxiv.org/abs/2004.03338”
 * “https://arxiv.org/abs/2004.03339”
 
-[show the paper](http://abollo.github.io/files/MULTIFORM FONTS-TO-FONTS TRANSLATION VIA STYLE AND CONTENT DISENTANGLED REPRESENTATIONS OF CHINESE CHARACTER 2004.03338v1.pdf)
+[show the results](http://abollo.github.io/files/MULTIFORM FONTS-TO-FONTS TRANSLATION VIA STYLE AND CONTENT DISENTANGLED REPRESENTATIONS OF CHINESE CHARACTER 2004.03338v1.pdf)
 
 [show the results](http://abollo.github.io/files/AUTOMATIC GENERATION OF CHINESE HANDWRITING VIA FONTS STYLE REPRESENTATION LEARNING 2004.03339v1.pdf)
 
-<a href="http://abollo.github.io/files/AUTOMATIC GENERATION OF CHINESE HANDWRITING VIA FONTS STYLE REPRESENTATION LEARNING 2004.03339v1.pdf" class="image fit"><img src="images/marr_pic.jpg" alt=""></a>
