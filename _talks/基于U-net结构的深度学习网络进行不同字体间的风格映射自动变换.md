@@ -13,6 +13,5 @@ date: 2017-07-28
 * “https://arxiv.org/abs/2004.03338”
 * “https://arxiv.org/abs/2004.03339”
 
-![file](http://abollo.github.io/files/introduction_to_deep_learning.pdf)
-<a href="http://abollo.github.io/files/MULTIFORM FONTS-TO-FONTS TRANSLATION VIA STYLE AND CONTENT DISENTANGLED REPRESENTATIONS OF CHINESE CHARACTER 2004.03338v1.pdf" target="_blank">PDF.</a>
-
+![](http://abollo.github.io/files/MULTIFORM FONTS-TO-FONTS TRANSLATION VIA STYLE AND CONTENT DISENTANGLED REPRESENTATIONS OF CHINESE CHARACTER 2004.03338v1.pdf)
+![](http://abollo.github.io/files/AUTOMATIC GENERATION OF CHINESE HANDWRITING VIA FONTS STYLE REPRESENTATION LEARNING 2004.03339v1.pdf)
