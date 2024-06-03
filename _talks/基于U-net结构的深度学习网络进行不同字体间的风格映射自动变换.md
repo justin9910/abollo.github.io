@@ -17,4 +17,4 @@ date: 2017-07-28
 
 [show the results](http://abollo.github.io/files/AUTOMATIC GENERATION OF CHINESE HANDWRITING VIA FONTS STYLE REPRESENTATION LEARNING 2004.03339v1.pdf)
 
-<object data="(http://abollo.github.io/files/AUTOMATIC GENERATION OF CHINESE HANDWRITING VIA FONTS STYLE REPRESENTATION LEARNING 2004.03339v1.pdf)" width="1000" height="1000" type='application/pdf'></object>
+<a href="http://abollo.github.io/files/AUTOMATIC GENERATION OF CHINESE HANDWRITING VIA FONTS STYLE REPRESENTATION LEARNING 2004.03339v1.pdf" class="image fit"><img src="images/marr_pic.jpg" alt=""></a>
