@@ -12,3 +12,5 @@ date: 2017-07-28
 
 * “https://arxiv.org/abs/2004.03338”
 * “https://arxiv.org/abs/2004.03339”
+
+![file]([Download paper here](http://abollo.github.io/files/introduction_to_deep_learning.pdf)
